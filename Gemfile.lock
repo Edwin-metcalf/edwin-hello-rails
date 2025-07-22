@@ -287,7 +287,7 @@ DEPENDENCIES
   jbuilder
   pg (= 1.6.0.rc1)
   puma (>= 5.0)
-  rails (~> 7.1.5, >= 7.1.5.1)
+  rails (~> 7.1.5)
   selenium-webdriver
   sprockets-rails
   sqlite3 (>= 1.4)
